@@ -2,28 +2,30 @@
 layout: about
 title: About
 permalink: /
-subtitle: UCLA MS. Computer Science 24' | BS. Computer Science 22'
+subtitle: Mcgill University .M.Eng (Thesis). BBME 24' | B.Eng Bioengineering and Biotechnology 22'
 nav_order: 1
 profile:
   align: right
   image: chenda_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   address: >
-    <p>Los Angeles, CA, 90024</p>
-    <p>Phone: 310-254-5864</p>
-    <p>Email: chenda@ucla.edu</p>
+    <p>Montreal, QC, H3W 2P9</p>
+    <p>Phone: 438-939-4250</p>
+    <p>Email: ishita.hiremath@mail.mcgill.ca</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h2 style="margin-top: 50px;">About me</h2>
-Hello! I'm Chenda Duan, `a second-year MS student in Computer Science at UCLA`, advised by Prof. [Bolei Zhou](https://boleizhou.github.io/). I will be joining Prof. [Vwani Roychowdhury](https://www.vwaniroychowdhury.com/)'s group as a Ph.D student starting this fall. Previously, I graduated with a B.S. in Computer Science from UCLA as well! (So, 10 years at UCLA...)
+Hello! I'm Ishita Hiremath, `a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, advised by Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner). I will be strating my Ph.D under Prof. Wagner at the [] (BGH Lab) [https://bgh.lab.mcgill.ca/] this fall 2024. Previously, I graduated with a B.Eng. in Bioengineering and Biotechnology from Birla Institute of Technology, Mesra India.
 
 🔍 **Actively Seeking Opportunities**:
-- **Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US.
-
-If you believe there's a potential fit, please [contact me](mailto:chenda@ucla.edu). I'm eager to explore new challenges and collaborations.
+- **Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US. 
+<!---
+I need to re-write this section
+-->
+If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.
 
 <div class="news">
   <h2 style="margin-top: 50px;">News</h2>
