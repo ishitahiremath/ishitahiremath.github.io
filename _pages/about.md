@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [About Me]
 profile:
   align: right
-  image: WhatsApp Image 2024-04-24 at 14.19.57_a02291d5.jpg
+  image: Ishita_Img.jpg
   image_circular: False  # crops the image to make it circular, check if your CSS supports this
   address: >
     <p>Montreal, QC, H3W 2P9</p>
