@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-03-12 11:30:00+0800
+date: 2021-08-12 11:30:00+0800
 inline: true
 ---
 
-I will be the `TA` for `CS33` next quarter!
-
+Pursued my research interest in epigenetics as a causative agent in cancer at Purdue University.

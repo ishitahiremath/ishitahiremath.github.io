@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-06-30 11:30:00+0800
+date: 2019-06-30 11:30:00+0800
 inline: true
 ---
 
-I decided to go to international department of my high school, and give up taking 高考👀
+Realised that love Bioengineering and decided to take up research work!!!
+ 
+
 

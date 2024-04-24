@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-03-22 11:56:00-0700
+date: 2021-12-22 11:56:00-0700
 inline: true
 ---
-Finally got my Ph.D offer from `UCLA ECE`! Another 5 years@UCLA🤔
+Recieved Offers lettes from UCSD for Masters with Fast-Tracking into PhD Bioengineering
 

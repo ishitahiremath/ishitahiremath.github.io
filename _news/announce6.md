@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-04-1 11:30:00+0800
+date: 2021-04-1 11:30:00+0800
 inline: true
 ---
 
-I finally decide to stay at UCLA for two more years for the MSCS program😊
+Started my Intern at Institut National de la Recherche Scientifique, Laval as a MITACS Intern
 

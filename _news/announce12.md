@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-22 11:30:00+0800
+date: 2022-01-02 11:30:00+0800
 inline: true
 ---
 
-Two papers accepted by `NeurIPS 2023`!🎉 One as `Spotlight` and one as `Poster`!🙂
+Recieved Offer Letter for Masters in Biology and Biomedical Engineering from McGill University (Funded)!!!
 

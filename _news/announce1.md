@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2000-11-08 11:30:00+0800
+date: 2000-06-25 04:35:00+0800
 inline: true
 ---
 
-I was born!:smile:
+I am born a cancerian!

@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-04-10 11:30:00+0800
+date: 2022-01-10 11:30:00+0800
 inline: true
 ---
 
-I will join `Kuaishou Technology®` as a `ML & Algorithm Engineer` Intern this Summer!🙂
-
+Joined industry during my final term at [Reckitt Benckiser](https://reckitt.com/) to identify gaps in industrial research that academia could fill.

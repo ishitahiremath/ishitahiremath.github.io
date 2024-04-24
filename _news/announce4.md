@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2020-07-25 11:30:00+0800
+date: 2020-08-01 11:30:00+0800
 inline: true
 ---
 
-I swithed my major to Computer Science, before it starting declining🥶
+Started as an Undergraduate Researcher at National University of Singapore (NUS) on Signaling Pathways and Cancer 
 
