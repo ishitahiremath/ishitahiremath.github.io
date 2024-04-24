@@ -74,10 +74,10 @@ Looking ahead, I am driven by a vision to lead and innovate in the field of biol
 
 
 For more information about me, connections, or just a friendly chat, all contact and social media details are available below.
-address: >
-    <p>Montreal, QC, H3W 2P9</p>
-    <p>Phone: 438-939-4250</p>
-    <p>Email: ishita.hiremath@mail.mcgill.ca</p>
+Address: |
+  <p>Montreal, QC, H3W 2P9</p>
+  <p>Phone: 438-939-4250</p>
+  <p>Email: ishita.hiremath@mail.mcgill.ca</p>
 
 
 
