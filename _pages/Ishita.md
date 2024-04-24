@@ -2,61 +2,58 @@
 layout: about
 title: Ishita
 permalink: /
-subtitle: Mcgill University M.Eng (Thesis) BBME 24' | B.Eng Bioengineering and Biotechnology 22'
+subtitle: McGill University M.Eng (Thesis) BBME '24 | B.Eng Bioengineering and Biotechnology '22'
 nav_order: 1
 profile:
   align: right
   image: Ishita_Img.jpg
-  image_circular: False # crops the image to make it circular
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+  image_circular: False
+news: true
+selected_papers: false
+social: true
 ---
 
 <div class="container">
   <div class="row">
-    <!-- Content Area -->
+    <!-- Main Content Area -->
     <div class="col-md-9">
-      <h2 style="margin-top: 50px;">About me</h2>
-      <p>Hello! I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, advised by Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner). I will be starting my Ph.D under Prof. Wagner at the [BGH Lab](https://bgh.lab.mcgill.ca/) this fall 2024. Previously, I graduated with a B.Eng. in Bioengineering and Biotechnology from Birla Institute of Technology, Mesra India.</p>
-
-      <div class="news">
-        <h2 style="margin-top: 50px;">News</h2>
-        {% if site.news != blank -%}
-        <div class="table-responsive" style="max-height: 300px; overflow-y: auto;">
-          <table class="table table-sm table-borderless">
-            {% assign news = site.news | reverse %}
-            {% for item in news %}
-              <tr>
-                <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
-                <td>
-                  {% if item.inline %}
-                    {{ item.content | emojify }}
-                  {% else %}
-                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                  {% endif %}
-                </td>
-              </tr>
-            {% endfor %}
-          </table>
-        </div>
-        {% else %}
-          <p>No news so far...</p>
-        {% endif %}
+      <h2>About Me</h2>
+      <p>Hello! I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, advised by Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner). I will be starting my Ph.D. under Prof. Wagner at the [BGH Lab](https://bgh.lab.mcgill.ca/) this fall 2024. Previously, I graduated with a B.Eng. in Bioengineering and Biotechnology from Birla Institute of Technology, Mesra India.</p>
+      <h2>News</h2>
+      <!-- News Section -->
+      {% if site.news %}
+      <div class="news" style="max-height: 300px; overflow-y: scroll;">
+        <table class="table">
+          {% for item in site.news reversed %}
+          <tr>
+            <td>{{ item.date | date: '%b %d, %Y' }}</td>
+            <td>
+              {% if item.url %}
+              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {% else %}
+              {{ item.content }}
+              {% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </table>
       </div>
-
-      <h2 style="margin-top: 50px;">My Vision in Biological Engineering</h2>
+      {% else %}
+      <p>No recent news.</p>
+      {% endif %}
+      <h2>My Vision on Biological Engineering</h2>
       <p>As a PhD student deeply engaged in bioengineering research, I am continually inspired by the vast possibilities that emerge at the intersection of biology and engineering...</p>
     </div>
-
-    <!-- Image Area -->
+    <!-- Image Column -->
     <div class="col-md-3">
-      <div class="profile-image">
-        <img src="{{ 'assets/img/' | append: page.profile.image }}" alt="Ishita" class="{{ 'img-fluid ' | append: (page.profile.image_circular | bool: 'rounded-circle', 'rounded') }}">
-      </div>
+      {% if page.profile.image %}
+      <img src="{{ 'assets/img/' | append: page.profile.image }}" alt="Profile Image" class="img-fluid {{ page.profile.image_circular | default: false | append: ' rounded-circle' }}">
+      {% endif %}
     </div>
   </div>
 </div>
+
+
 <!------
 layout: about
 title: Ishita
