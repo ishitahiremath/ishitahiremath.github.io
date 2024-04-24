@@ -26,7 +26,7 @@ If you believe there's a potential fit, please [contact me](mailto:ishita.hirema
   <h2 style="margin-top: 50px;">News</h2>
   {% if site.news != blank -%} 
   {%- assign news_size = site.news | size -%}
-  <div class="table-responsive" {% if site.news_scrollable and news_size > 4 %}style="max-height: 10vw"{% endif %}>
+  <div class="table-responsive" {% if site.news_scrollable and news_size > 4 %}style="max-height: 20vw"{% endif %}>
     <table class="table table-sm table-borderless">
     {%- assign news = site.news | reverse -%}
     {% if site.news_limit %}
