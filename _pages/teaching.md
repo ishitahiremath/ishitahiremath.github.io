@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 description: I love the feeling of spreading knowledge!
 nav: true
-nav_order: 6
+nav_order: 7
 display_categories: [teaching]
 horizontal: false
 ---
