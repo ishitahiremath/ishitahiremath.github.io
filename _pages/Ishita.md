@@ -1,60 +1,4 @@
----
-layout: about
-title: Ishita
-permalink: /
-subtitle: McGill University M.Eng (Thesis) BBME '24 | B.Eng Bioengineering and Biotechnology '22'
-nav_order: 1
-profile:
-  align: right
-  image: Ishita_Img.jpg
-  image_circular: False
-news: true
-selected_papers: false
-social: true
----
-
-<div class="container">
-  <div class="row">
-    <!-- Main Content Area -->
-    <div class="col-md-9">
-      <h2>About Me</h2>
-      <p>Hello! I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, advised by Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner). I will be starting my Ph.D. under Prof. Wagner at the [BGH Lab](https://bgh.lab.mcgill.ca/) this fall 2024. Previously, I graduated with a B.Eng. in Bioengineering and Biotechnology from Birla Institute of Technology, Mesra India.</p>
-      <h2>News</h2>
-      <!-- News Section -->
-      {% if site.news %}
-      <div class="news" style="max-height: 300px; overflow-y: scroll;">
-        <table class="table">
-          {% for item in site.news reversed %}
-          <tr>
-            <td>{{ item.date | date: '%b %d, %Y' }}</td>
-            <td>
-              {% if item.url %}
-              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% else %}
-              {{ item.content }}
-              {% endif %}
-            </td>
-          </tr>
-          {% endfor %}
-        </table>
-      </div>
-      {% else %}
-      <p>No recent news.</p>
-      {% endif %}
-      <h2>My Vision on Biological Engineering</h2>
-      <p>As a PhD student deeply engaged in bioengineering research, I am continually inspired by the vast possibilities that emerge at the intersection of biology and engineering...</p>
-    </div>
-    <!-- Image Column -->
-    <div class="col-md-3">
-      {% if page.profile.image %}
-      <img src="{{ 'assets/img/' | append: page.profile.image }}" alt="Profile Image" class="img-fluid {{ page.profile.image_circular | default: false | append: ' rounded-circle' }}">
-      {% endif %}
-    </div>
-  </div>
-</div>
-
-
-<!------
+------
 layout: about
 title: Ishita
 permalink: /
@@ -78,7 +22,7 @@ I need to re-write this section
 
 If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.-->
 
-<!---<div class="news">
+<div class="news">
   <h2 style="margin-top: 50px;">News</h2>
   {% if site.news != blank -%} 
   {%- assign news_size = site.news | size -%}
