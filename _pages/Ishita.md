@@ -6,7 +6,7 @@ subtitle: Mcgill University .M.Eng (Thesis) BBME 24' | B.Eng Bioengineering and 
 nav_order: 1
 profile:
   align: right
-  image: chenda_pic.jpg
+  image: WhatsApp Image 2024-04-24 at 14.19.57_a02291d5.jpg
   image_circular: False # crops the image to make it circular
   address: >
     <p>Montreal, QC, H3W 2P9</p>
