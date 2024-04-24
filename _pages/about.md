@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: page
 title: About
-permalink: /About/
+permalink: /AboutMe/
 subtitle: McGill University M.Eng (Thesis). BBME '24 | B.Eng Bioengineering and Biotechnology '22
 nav_order: 2
 profile:
