@@ -20,12 +20,12 @@ social: true  # includes social icons at the bottom of the page
 <h2 style="margin-top: 50px;">About me</h2>
 Hello! I'm Ishita Hiremath, `a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, advised by Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner). I will be strating my Ph.D under Prof. Wagner at the [] (BGH Lab) [https://bgh.lab.mcgill.ca/] this fall 2024. Previously, I graduated with a B.Eng. in Bioengineering and Biotechnology from Birla Institute of Technology, Mesra India.
 
-🔍 **Actively Seeking Opportunities**:
+<!---🔍 **Actively Seeking Opportunities**:
 - **Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US. 
 <!---
 I need to re-write this section
--->
-If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.
+
+If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.-->
 
 <div class="news">
   <h2 style="margin-top: 50px;">News</h2>
