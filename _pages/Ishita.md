@@ -2,6 +2,65 @@
 layout: about
 title: Ishita
 permalink: /
+subtitle: Mcgill University M.Eng (Thesis) BBME 24' | B.Eng Bioengineering and Biotechnology 22'
+nav_order: 1
+profile:
+  align: right
+  image: Ishita_Img.jpg
+  image_circular: False # crops the image to make it circular
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+<div class="container">
+  <div class="row">
+    <!-- Content Area -->
+    <div class="col-md-9">
+      <h2 style="margin-top: 50px;">About me</h2>
+      <p>Hello! I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, advised by Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner). I will be starting my Ph.D under Prof. Wagner at the [BGH Lab](https://bgh.lab.mcgill.ca/) this fall 2024. Previously, I graduated with a B.Eng. in Bioengineering and Biotechnology from Birla Institute of Technology, Mesra India.</p>
+
+      <div class="news">
+        <h2 style="margin-top: 50px;">News</h2>
+        {% if site.news != blank -%}
+        <div class="table-responsive" style="max-height: 300px; overflow-y: auto;">
+          <table class="table table-sm table-borderless">
+            {% assign news = site.news | reverse %}
+            {% for item in news %}
+              <tr>
+                <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                <td>
+                  {% if item.inline %}
+                    {{ item.content | emojify }}
+                  {% else %}
+                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  {% endif %}
+                </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+        {% else %}
+          <p>No news so far...</p>
+        {% endif %}
+      </div>
+
+      <h2 style="margin-top: 50px;">My Vision in Biological Engineering</h2>
+      <p>As a PhD student deeply engaged in bioengineering research, I am continually inspired by the vast possibilities that emerge at the intersection of biology and engineering...</p>
+    </div>
+
+    <!-- Image Area -->
+    <div class="col-md-3">
+      <div class="profile-image">
+        <img src="{{ 'assets/img/' | append: page.profile.image }}" alt="Ishita" class="{{ 'img-fluid ' | append: (page.profile.image_circular | bool: 'rounded-circle', 'rounded') }}">
+      </div>
+    </div>
+  </div>
+</div>
+<!------
+layout: about
+title: Ishita
+permalink: /
 subtitle: Mcgill University .M.Eng (Thesis) BBME 24' | B.Eng Bioengineering and Biotechnology 22'
 nav_order: 1
 profile:
@@ -22,7 +81,7 @@ I need to re-write this section
 
 If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.-->
 
-<div class="news">
+<!---<div class="news">
   <h2 style="margin-top: 50px;">News</h2>
   {% if site.news != blank -%} 
   {%- assign news_size = site.news | size -%}
