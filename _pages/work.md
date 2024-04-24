@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research&Work
+title: Research
 permalink: /work/
 description: What I have done!
 nav: true

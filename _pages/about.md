@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AboutMe
-permalink: /AboutMe/
+title: About
+permalink: /About/
 subtitle: McGill University M.Eng (Thesis) BBME '24 | B.Eng Bioengineering and Biotechnology '22
 nav: true
 nav_order: 2
@@ -14,6 +14,7 @@ profile:
     <p>Montreal, QC, H3W 2P9</p>
     <p>Phone: 438-939-4250</p>
     <p>Email: ishita.hiremath@mail.mcgill.ca</p>
+
 ---
 
 <h2 style="margin-top: 50px;">Hey There! Dive Deeper into My World of Research Adventures</h2>
