@@ -1,5 +1,5 @@
 ---
-layout: Ishita
+layout: about
 title: Ishita
 permalink: /
 subtitle: Mcgill University .M.Eng (Thesis). BBME 24' | B.Eng Bioengineering and Biotechnology 22'
