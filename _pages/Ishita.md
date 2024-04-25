@@ -9,9 +9,9 @@ profile:
   image: Ishita_Img.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Los Angeles, CA, 90024</p>
-    <p>Phone: 310-254-5864</p>
-    <p>Email: chenda@ucla.edu</p>
+    <p>Montreal, QC, H3W 2P9</p>
+    <p>Phone: 438-939-4250</p>
+    <p>Email: ishiat.hiremath@mail.mcgill.ca</p>
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
