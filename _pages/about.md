@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AboutMe
+title: About
 permalink: /About/
 subtitle: "McGill University M.Eng (Thesis) BBME '24 | B.Eng Bioengineering and Biotechnology '22"
 nav: true
@@ -11,7 +11,6 @@ profile:
   image: assests/Ishita_Img.jpg
   image_circular: false  # Ensure boolean values are lowercase
 ---
-
 
 <h2 style="margin-top: 50px;">Dive Deeper into My World of Research Adventures</h2>
 <p>Welcome! I’m Ishita Hiremath, exploring the frontiers of biology and technology. Here’s where I share my journey from foundational studies to ambitious innovations. Curious about how I blend bioengineering with real-world applications? Keep reading!</p>   

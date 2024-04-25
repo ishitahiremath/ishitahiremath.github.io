@@ -4,7 +4,7 @@ title: Research
 permalink: /work/
 description: What I have done!
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [research]
 horizontal: false
 ---

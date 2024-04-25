@@ -1,23 +1,30 @@
 ---
 layout: page
-title: Basketball-shooting
-description: An online basketball-shooting game	build from scrath, with advanced graphic features!
+title: Masters Thesis Project
+description: Modelling the Effects of Viscoelasticity and Binding in Viral Transport Through Mucus 
 img: assets/img/basketball.jpg
 importance: 2
 category: project
 ---
 
-This is my final project for UCLA CS174A: Introduction to Computer Graphics
-
-This is a simple game, which you try to score by throwing basketball. You can control the angle and throwing power. You can also preview the trajectory.
-
-The game is seemingly trivial, but the key is to built graphic features. The game contains advanced graphic features, including shadow, texture, and reflections. We use only a lite version of WebGL called Tinygraphics, which contains basic geometry definition vector calculation functions. The rest majority features are built solely by ourselves.
-
-<a href="https://basketball-shooting.herokuapp.com"> Play the game Here! </a>
-
-<a href="https://github.com/Dadaism6/CS174A_PROJ"> Source code Here! </a>
-
-
+My current work on my master’s thesis is to unravel the interactions and binding dynamics between respiratory viruses 
+and mucins. Doing so is critical as these interactions impact the mobility of pathogens across airway mucus barriers, with 
+clear implications for host infection. This has entailed a synergistic approach that bridges theoretical modeling with 
+experimental work.  
+  
+On the theoretical front, I have made substantial progress simulating the motion of tracer particles in viscoelastic 
+environments with binding - a model system for virus motion in mucus. A significant aspect of my theoretical research has 
+involved determining an appropriate theoretical framework for particle motion in non-Newtonian environments. Through 
+collaborations with leading research groups in this area, I have developed a model that combines the statistics of Fractional
+Brownian Motion (fBM) with various algorithms for binding and interaction. Additionally, I have developed an 
+infrastructure to integrate other essential mucosal transport factors, such as local heterogeneity.  
+  
+Experimentally, I am the senior lab member in the group, and the steward of our primary piece of equipment, an 
+inverted fluorescence microscope. Under Dr. Wagner's guidance, I have learned the technique of single particle tracking, 
+and have applied this to characterizing and monitoring the transport of virus-like particles (VLPs) in mucin gels. Our VLP 
+system is sourced from the laboratory of Prof. Hanrahan’s in the Department of Physiology at McGill University. To date, 
+our VLPs have been developed with the characteristics of SARS-CoV-2, IAV, RSV.  
+  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
