@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Montreal, QC, H3W 2P9</p>
     <p>Phone: 438-939-4250</p>
-    <p>Email: [ishita.hiremath@mail.mcgill.ca](mailto)</p>
+    <p>Email: [ishita.hiremath@mail.mcgill.ca](mailto:ishita.hiremath@mail.mcgill.ca)</p>
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
