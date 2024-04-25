@@ -8,9 +8,9 @@ profile:
   align: right
   image: Ishita_Img.jpg
   image_circular: false # crops the image to make it circular
-  <p>Address: Montreal, QC, H3W 2P9</p>
-  <p>Phone: 438-939-4250</p>
-  <p>Email: ishita.hiremath@mail.mcgill.ca</p>
+  Address: Montreal, QC, H3W 2P9
+  Phone: 438-939-4250
+  Email: ishita.hiremath@mail.mcgill.ca
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
