@@ -2,14 +2,12 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: I love the feeling of spreading knowledge!
+description: 
 nav: true
 nav_order: 5
 display_categories: [teaching]
 horizontal: false
 ---
-
-<h6>There is a saying in Chiness, called "好为人师" (be fond of teaching others), my Dad always said he should be a teacher instead of a engineer, and sometimes I feel the same.</h6>
 
 
 <!-- pages/projects.md -->
