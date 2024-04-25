@@ -4,7 +4,7 @@ title: Modelling the Effects of Viscoelasticity and Binding in Viral Transport T
 description: Masters Thesis 
 img: assets/img/bioinformatics.jpeg
 importance: 1
-category: work
+category: research
 ---
 2022.8 - 2024.3
 
