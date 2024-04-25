@@ -8,9 +8,10 @@ profile:
   align: right
   image: Ishita_Img.jpg
   image_circular: false # crops the image to make it circular
-  Address: Montreal, QC, H3W 2P9
-  Phone: 438-939-4250
-  Email: ishita.hiremath@mail.mcgill.ca
+  address: >
+    <p>Los Angeles, CA, 90024</p>
+    <p>Phone: 310-254-5864</p>
+    <p>Email: chenda@ucla.edu</p>
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
