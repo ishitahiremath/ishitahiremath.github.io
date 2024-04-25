@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hey There!
+title: AboutMe
 permalink: /About/
 subtitle: "McGill University M.Eng (Thesis) BBME '24 | B.Eng Bioengineering and Biotechnology '22"
 nav: true
