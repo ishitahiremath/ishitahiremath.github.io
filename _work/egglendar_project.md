@@ -3,7 +3,7 @@ layout: page
 title: Impact of Mucus Gels on Cellular Susceptibility to Respiratory Virus Infections
 description: Online Student Calendar
 importance: 1
-category: project
+category: work
 ---
 I have initiated preliminary studies for my PhD project focused on the impact of mucus gels on cellular susceptibility to 
 respiratory virus infection. This has involved me learning the technique of cell culture in collaboration with the other labs in the Department. 

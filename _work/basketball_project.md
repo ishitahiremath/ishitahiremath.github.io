@@ -4,7 +4,7 @@ title: Masters Thesis Project
 description: Modelling the Effects of Viscoelasticity and Binding in Viral Transport Through Mucus 
 img: assets/img/basketball.jpg
 importance: 2
-category: project
+category: work
 ---
 
 My current work on my master’s thesis is to unravel the interactions and binding dynamics between respiratory viruses 

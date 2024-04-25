@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /work/
-description: What I have done!
+description: What I have done, am doing, and will be doing! (to be updated)
 nav: true
 nav_order: 3
 display_categories: [research]
