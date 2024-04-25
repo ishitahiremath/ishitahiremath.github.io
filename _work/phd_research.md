@@ -2,7 +2,7 @@
 layout: page
 title: Impact of Mucus Gels on Cellular Susceptibility to Respiratory Virus Infections
 description: Project 1
-img: assets/img/bioinformatics.jpeg
+img: assets/img/project2.png
 importance: 2
 category: research
 ---
