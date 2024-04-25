@@ -8,6 +8,9 @@ profile:
   align: right
   image: Ishita_Img.jpg
   image_circular: false # crops the image to make it circular
+  <p>Address: Montreal, QC, H3W 2P9</p>
+  <p>Phone: 438-939-4250</p>
+  <p>Email: ishita.hiremath@mail.mcgill.ca</p>
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -22,11 +25,11 @@ I need to re-write this section
 
 If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.-->
 
-<div class="news" style="width: 60%;">
+<div class="news" style="width: 65%;">
   <h2 style="margin-top: 50px;">News</h2>
   {% if site.news != blank -%} 
   {%- assign news_size = site.news | size -%}
-  <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 20vw"{% endif %}>
+  <div class="table-responsive" {% if site.news_scrollable and news_size > 5 %}style="max-height: 20vw"{% endif %}>
     <table class="table table-sm table-borderless">
     {%- assign news = site.news | reverse -%}
     {% if site.news_limit %}
@@ -74,10 +77,7 @@ Looking ahead, I am driven by a vision to lead and innovate in the field of biol
 
 
 For more information about me, connections, or just a friendly chat, all contact and social media details are available below.
-Address: |
-  <p>Montreal, QC, H3W 2P9</p>
-  <p>Phone: 438-939-4250</p>
-  <p>Email: ishita.hiremath@mail.mcgill.ca</p>
+
 
 
 
