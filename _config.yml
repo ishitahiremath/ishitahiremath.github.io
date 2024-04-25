@@ -99,7 +99,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Ishita's Drawer # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: #Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: This is not a blog, but rather a "scratch paper" containing my random or even crazy thoughts.
 permalink: /blog/:year/:title/
 

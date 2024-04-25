@@ -1,6 +1,6 @@
 ---
 layout: page
-title: McGill Univeristy, Department of Bioengineering
+title: Impact of Mucus Gels on Cellular Susceptibility to Respiratory Virus Infections
 description: Project 1
 img: assets/img/bioinformatics.jpeg
 importance: 2

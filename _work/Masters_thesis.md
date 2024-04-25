@@ -1,7 +1,7 @@
 ---
 layout: page
-title: McGill Univeristy, Department of Bioengineering
-description: Modelling the Effects of Viscoelasticity and Binding in Viral Transport Through Mucus 
+title: Modelling the Effects of Viscoelasticity and Binding in Viral Transport Through Mucus 
+description: Masters Thesis 
 img: assets/img/bioinformatics.jpeg
 importance: 1
 category: work
