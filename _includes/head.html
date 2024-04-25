@@ -28,4 +28,28 @@
 
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
-    {% endif %}
+    {% endif %}  
+    <style>
+        .grid-item {
+          width: 300px; /* Width of thumbnails */
+          height: 300px; /* Height of thumbnails */
+          margin: 15px; /* Distance between items */
+        }
+        
+        .grid-item a {
+          display: block;
+          width: 100%;
+          height: 100%;
+        }
+        
+        .card.hoverable {
+          width: 100%;
+          height: 100%;
+        }
+        
+        .figure img {
+          max-width: 100%;
+          height: auto;
+        }
+      </style>
+      
