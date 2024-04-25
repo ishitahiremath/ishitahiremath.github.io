@@ -2,7 +2,7 @@
 layout: page
 title: Modelling the Effects of Viscoelasticity and Binding in Viral Transport Through Mucus 
 description: Masters Thesis 
-img: assets/img/bioinformatics.jpeg
+img: assets/img/project1.png
 importance: 1
 category: research
 ---
