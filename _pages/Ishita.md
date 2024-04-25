@@ -22,11 +22,11 @@ I need to re-write this section
 
 If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.-->
 
-<div class="news">
+<div class="news" style="width: 60%;">
   <h2 style="margin-top: 50px;">News</h2>
   {% if site.news != blank -%} 
   {%- assign news_size = site.news | size -%}
-  <div class="table-responsive" style="width: 60%;" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
+  <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
     <table class="table table-sm table-borderless">
     {%- assign news = site.news | reverse -%}
     {% if site.news_limit %}
