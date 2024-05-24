@@ -73,13 +73,7 @@ As a PhD student deeply engaged in bioengineering research, I am continually ins
 Biomaterials hold a special place in my research and intellectual curiosity. These materials are not just pivotal in advancing medical science; they also present unique opportunities to tackle some of the most pressing societal challenges. By harnessing the inherent capabilities of biological systems, biomaterials can offer sustainable solutions that extend far beyond the conventional boundaries of medicine.   
 Looking ahead, I am driven by a vision to lead and innovate in the field of biological engineering. My goal is to catalyze the transition of biological concepts into real-world applications that enhance not just healthcare but also sectors like energy and environmental sustainability. As I advance in my career, I am committed to being at the forefront of this exciting field, shaping its future and contributing to a more sustainable and healthier world.  
 
-**Research Interests**:
-- Biomaterials
-- Cellular Biology
-- Simulations
-- Epigenetics and Pharmacology
-
-**Publications**
+<h2 style="margin-top: 50px;">Publication</h2>  
 <!-- _pages/publications.md -->
 <div class="publications">
   {%- for y in page.years %}
@@ -87,6 +81,7 @@ Looking ahead, I am driven by a vision to lead and innovate in the field of biol
     {% bibliography -f papers -q @*[year={{y}}]* %}
   {% endfor %}
 </div>
+<h2 style="margin-top: 50px;">Past Research Experience</h2>  
 
 **Research Groups**:
 - [Biofluids and ​Global Health Lab](https://bgh.lab.mcgill.ca/), McGill University
@@ -96,6 +91,11 @@ Looking ahead, I am driven by a vision to lead and innovate in the field of biol
 - [Cancer Pharmacology Lab](https://discovery.nus.edu.sg/1847-gautam-sethi), National University of Singapore(NUS)
 - [Structural Biology and Protein Engineering Lab](https://www.iitr.ac.in/mculaboratory/index.html), IIT Roorkee
 
+**Research Interests**:
+- Biomaterials
+- Cellular Biology
+- Simulations
+- Epigenetics and Pharmacology
 
 For more information about me, connections, or just a friendly chat, all contact and social media details are available below.
 
