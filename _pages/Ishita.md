@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Ishita
+title: Ishita Hiremath
 permalink: /
 subtitle: Mcgill University .M.Eng (Thesis) BBME 24' | B.Eng Bioengineering and Biotechnology 22'
 nav_order: 1
@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<h2 style="margin-top: 50px;">About me</h2>
+<h2 style="margin-top: 50px;">Hey There!</h2>
 Hello! I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, currently working under the mentorship of Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner),[BGH Lab](https://bgh.lab.mcgill.ca/). My Master’s research has been a thrilling exploration of virus-like particles in mucus, where I've developed models to simulate their transport using principles of viscoelasticity and binding interactions. I am particularly excited about trying to integrate machine learning with my models to enhance their accuracy and applicability — an approach quite distinct from my primary field—into my studies. 
 
 This fall 2024, I will begin my Ph.D. at the [BGH Lab](https://bgh.lab.mcgill.ca/), where I plan to delve deeper into the fascinating world of mucus biology using microfluidic chips. Prof. Wagner's willingness to cross traditional disciplinary boundaries inspires me, as it resonates with my belief in the power of interdisciplinary approaches and robust collaboration for groundbreaking research.
