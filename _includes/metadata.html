@@ -6,7 +6,10 @@
     {% if site.enable_bing_verification -%}
     <meta name="msvalidate.01" content="{{ site.bing_site_verification }}" />
     {%- endif -%}
+    <!-- Suggest to search engines to revisit this page every 7 days -->
+    <meta name="revisit-after" content="7 days" />
 {%- endif %}
+
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
