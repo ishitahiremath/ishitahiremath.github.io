@@ -78,12 +78,12 @@ Looking ahead, I am driven by a vision to lead and innovate in the field of biol
 - Epigenetics and Pharmacology
 
 **Research Groups**:
-- Biofluids and ​Global Health Lab, McGill University
-- Sintim Research Group, Purdue University
+- [Biofluids and ​Global Health Lab](https://bgh.lab.mcgill.ca/), McGill University
+- [Sintim Research Group](https://sites.google.com/site/sintimgrouphomepage/), Purdue University
 - Bio-Nanotechnology Lab, Indian Academy of Sciences
-- Calmettes Lab, Université INRS – Laval
-- Carncer Pharmacology Lab, National University of Singapore(NUS)
-- Structural Biology and Protein Engineering Lab, IIT Roorkee
+- [Calmettes Lab](https://ccalmettes.profs.inrs.ca/), Université INRS – Laval
+- [Cancer Pharmacology Lab](https://discovery.nus.edu.sg/1847-gautam-sethi), National University of Singapore(NUS)
+- [Structural Biology and Protein Engineering Lab](https://www.iitr.ac.in/mculaboratory/index.html), IIT Roorkee
 
 
 For more information about me, connections, or just a friendly chat, all contact and social media details are available below.

@@ -12,10 +12,10 @@ layout: default
     <!-- Check if the cv_pdf variable exists and prepend the necessary path -->
     {% if page.cv_pdf %}
     <div class="cv-pdf-viewer">
+      <p>If the CV does not display, you can download it <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}">here</a>.</p>
       <!-- Embed the PDF directly into the page -->
       <embed src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" type="application/pdf" width="100%" height="1000px">
       <!-- Fallback download link if PDF does not display -->
-      <p>If the CV does not display, you can download it <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}">here</a>.</p>
     </div>
     {% else %}
     <p>No CV PDF available.</p>
