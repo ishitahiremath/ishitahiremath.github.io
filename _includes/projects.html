@@ -1,15 +1,6 @@
 <!-- _includes/projects.html -->
-<style>
-  .list-card {
-    display: block;
-    width: 100%;
-    height: auto;
-    margin-bottom: 20px; /* Adjust margin as needed */
-  }
-</style>
-
-{% for project in site.projects %}
-<div class="list-card">
+<div class="grid-sizer"></div>
+<div class="grid-item">
   {% if project.redirect -%}
   <a href="{{ project.redirect }}">
     {%- else -%}
@@ -18,8 +9,8 @@
       <div class="card hoverable">
         {%- if project.img %}
         {%- include figure.html
-        path=project.img
-        alt="project thumbnail" -%}
+          path=project.img
+          alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
           <h2 class="card-title">{{ project.title }}</h2>
@@ -43,4 +34,3 @@
       </div>
     </a>
 </div>
-{% endfor %}
