@@ -11,13 +11,22 @@ profile:
   address: >
     <p>Montreal, QC, H3W 2P9</p>
     <p>Phone: 438-939-4250</p>
-    <p>Email: [ishita.hiremath@mail.mcgill.ca](mailto:ishita.hiremath@mail.mcgill.ca)</p>
+    <p>Email: <a href="mailto:ishita.hiremath@mail.mcgill.ca">ishita.hiremath@mail.mcgill.ca</a></p>
+
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h2 style="margin-top: 50px;">About me</h2>
-Hello! I'm Ishita Hiremath, `a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, advised by Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner). I will be strating my Ph.D under Prof. Wagner at the [BGH Lab](https://bgh.lab.mcgill.ca/) this fall 2024. Previously, I graduated with a B.Eng. in Bioengineering and Biotechnology from Birla Institute of Technology, Mesra India.
+Hello! I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, currently working under the mentorship of Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner),[BGH Lab](https://bgh.lab.mcgill.ca/). My Master’s research has been a thrilling exploration of virus-like particles in mucus, where I've developed models to simulate their transport using principles of viscoelasticity and binding interactions. This work has not only sharpened my skills in microfluidics but has also paved the way for my upcoming Ph.D. research.
+
+This fall 2024, I will begin my Ph.D. at the [BGH Lab](https://bgh.lab.mcgill.ca/), where I plan to delve deeper into the fascinating world of mucus biology using microfluidic chips. I am particularly excited about integrating machine learning with my models to enhance the accuracy and applicability of our simulations. Prof. Wagner's willingness to cross traditional disciplinary boundaries inspires me, as it resonates with my belief in the power of interdisciplinary approaches and robust collaboration for groundbreaking research.
+
+In my current Master's program, I am diving into the techniques of culturing induced pluripotent stem cells (iPSCs) and exploring how these skills can enhance my research capabilities. Additionally, I'm excited about initiating a project that integrates machine learning—an approach quite distinct from my primary field—into my studies. This innovative crossover is poised to open new avenues in my research, pushing the boundaries of traditional methodologies.
+
+Presenting my research at major conferences in Canada—delivering talks of 20 and 10 minutes—has been among the highlights of my academic career so far, reinforcing my passion for science communication. As an avid debater and orator, these experiences have not only enhanced my presentation skills but have also deepened my enjoyment of the scientific dialogue.
+
+As I look toward my Ph.D., I am eager to explore innovative technologies such as organ-on-chip and advanced microfluidics, aiming to merge them with machine learning to pioneer solutions that could redefine our approach to biomedical challenges.
 
 <!---🔍 **Actively Seeking Opportunities**:
 - **Summer Internship** as a Research Scientist, Machine Learning Engineer, or Quant Researcher in the US. 
