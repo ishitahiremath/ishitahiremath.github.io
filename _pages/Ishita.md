@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Mcgill University .M.Eng (Thesis) BBME 24' | B.Eng Bioengineering and Biotechnology 22'
+subtitle: Mcgill University M.Eng (Thesis) BBME 24' | B.Eng Bioengineering and Biotechnology 22'
 nav_order: 1
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 years: [2022]
 ---
 <h2 style="margin-top: 50px;">Hey There!</h2>
-Hello! I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, currently working under the mentorship of Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner),[BGH Lab](https://bgh.lab.mcgill.ca/). My Master’s research has been a thrilling exploration of virus-like particles in mucus, where I've developed models to simulate their transport using principles of viscoelasticity and binding interactions. I am particularly excited about trying to integrate machine learning with my models to enhance their accuracy and applicability — an approach quite distinct from my primary field—into my studies. 
+I'm Ishita Hiremath, a second-year M.Eng Thesis student in Biology and Biomedical Engineering at McGill University, currently working under the mentorship of Prof. [Caroline Wagner](https://www.mcgill.ca/bbme/caroline-wagner),[BGH Lab](https://bgh.lab.mcgill.ca/). My Master’s research has been a thrilling exploration of virus-like particles in mucus, where I've developed models to simulate their transport using principles of viscoelasticity and binding interactions. I am particularly excited about trying to integrate machine learning with my models to enhance their accuracy and applicability — an approach quite distinct from my primary field—into my studies. 
 
 This fall 2024, I will begin my Ph.D. at the [BGH Lab](https://bgh.lab.mcgill.ca/), where I plan to delve deeper into the fascinating world of mucus biology using microfluidic chips. Prof. Wagner's willingness to cross traditional disciplinary boundaries inspires me, as it resonates with my belief in the power of interdisciplinary approaches and robust collaboration for groundbreaking research.
 
@@ -36,7 +36,7 @@ I need to re-write this section
 
 If you believe there's a potential fit, please [contact me](mailto:ishita.hiremath@mail.mcgill.ca). I'm eager to explore new challenges and collaborations.-->
 
-<div class="news" style="width: 65%;">
+<div class="news" style="width: 75%;">
   <h2 style="margin-top: 50px;">News</h2>
   {% if site.news != blank -%} 
   {%- assign news_size = site.news | size -%}
