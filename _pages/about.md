@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [About]
 profile:
   align: right
-  image: assests/new website pic.jpg
+  image: assests/ishita_img_new.jpg
   image_circular: false  # Ensure boolean values are lowercase
 ---
 
